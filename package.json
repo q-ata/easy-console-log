@@ -1,0 +1,19 @@
+{
+  "name": "easy-console-log",
+  "version": "1.0.0",
+  "description": "Easily log to your console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/q-ata/easy-console-log.git"
+  },
+  "author": "Qata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/q-ata/easy-console-log/issues"
+  },
+  "homepage": "https://github.com/q-ata/easy-console-log#readme"
+}
