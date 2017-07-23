@@ -1,6 +1,7 @@
 # Easy Console Logging
 
 This convenient and necessary node module allows for the easiest logging experience in JavaScript. Tired of type "console.log()"? This package is for you. Now, you can substitute the console.log with anything else!
+
 NPM: https://www.npmjs.com/package/easy-console-log
 
 ## Getting Started
